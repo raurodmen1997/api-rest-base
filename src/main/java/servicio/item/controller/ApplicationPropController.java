@@ -1,11 +1,11 @@
-package api.rest.base.controller;
+package servicio.item.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import api.rest.base.domain.ApplicationProp;
+import servicio.item.domain.ApplicationProp;
 
 @RestController
 @RequestMapping("/api")

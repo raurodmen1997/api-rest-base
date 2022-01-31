@@ -1,13 +1,13 @@
-package api.rest.base;
+package servicio.item;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiRestBaseApplication {
+public class ServicioItemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiRestBaseApplication.class, args);
+		SpringApplication.run(ServicioItemApplication.class, args);
 	}
 
 }
