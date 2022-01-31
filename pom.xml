@@ -9,11 +9,11 @@
 		<version>2.6.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>servicio.item</groupId>
-	<artifactId>servicio-item</artifactId>
+	<groupId>api.rest.base</groupId>
+	<artifactId>api-rest-base</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>servicio-item</name>
-	<description>API Rest servicio item</description>
+	<name>api-rest-base</name>
+	<description>API Rest base</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

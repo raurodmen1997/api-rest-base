@@ -1,4 +1,4 @@
-package servicio.item.domain;
+package api.rest.base.domain;
 
 /**
  * Clase que representa las propiedades del proyecto
